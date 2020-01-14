@@ -1,3 +1,5 @@
+package test.java.auto;
+
 public class MyFirst_Program {
 
 
