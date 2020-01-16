@@ -5,7 +5,7 @@ public class MyFirst_Program {
 
 	public static void main(String[] args) {
 
-		Square s = new Square(6);
+		Square s = new Square(5);
 		System.out.println("Площадь квадрата со стороной " + s.l + " = " + s.area());
 
 		Square ss = new Square(8);
