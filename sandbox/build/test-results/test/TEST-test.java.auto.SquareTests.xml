@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.java.auto.SquareTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-16T21:21:18" hostname="DESKTOP-MFL6R4J" time="0.006">
+<testsuite name="test.java.auto.SquareTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-20T17:06:54" hostname="DESKTOP-MFL6R4J" time="0.007">
   <properties/>
-  <testcase name="testArea" classname="test.java.auto.SquareTests" time="0.006"/>
+  <testcase name="testArea" classname="test.java.auto.SquareTests" time="0.007"/>
   <system-out><![CDATA[HI
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
